@@ -88594,6 +88594,22 @@
       "name": "VerdeCoin",
       "decimals": 7,
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/8Q2z5MAAHxmquedtmnFJ5zXf8FDrpq2DH4bBodHYuG3w/logo.png"
+    },
+    {
+      "chainId": 101,
+      "address": "A7Q6d4DpNuaZEf2H8R1RGgxMWScjCN6BbuXFwXzx8jPZ",
+      "symbol": "CAT",
+      "name": "Tamago Cat Token",
+      "decimals": 8,
+      "logoURI": "https://raw.githubusercontent.com/kelvinyusuf93/tamagocat/main/tamagocat.png",
+      "tags": [
+        "utility-token",
+        "community-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/9sfpP9qZMZ",
+        "twitter": "https://twitter.com/TamagocatNFTs"
+      }
     }
   ],
   "version": {
